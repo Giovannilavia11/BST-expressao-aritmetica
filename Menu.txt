@@ -1,0 +1,10 @@
+
++------------------------------------------------------------------+
+|                          Menu de Opcoes:                         |
++------------------------------------------------------------------+
+|   1. Entrada da expressao aritmetica na notacao infixa.          |
+|   2. Criacao da arvore binaria de expressao aritmetica.          |
+|   3. Exibicao da arvore binaria de expressao aritmetica.         |
+|   4. Calculo da expressao (realizando o percurso da arvore).     |
+|   5. Encerramento do programa.                                   |
++------------------------------------------------------------------+
